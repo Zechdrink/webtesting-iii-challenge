@@ -20,4 +20,6 @@ describe('Display Component', ()=>{
         expect(tree.toJSON()).toMatchSnapshot()
     });
 
+   
+
 });
